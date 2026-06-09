@@ -9,6 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhroohidev&label=Profile%20views&color=0e75b6&style=flat" alt="mhroohidev" /> </p>
 
+👨‍💻 I am Mohammad Hossein, a 22-year-old computer engineering student. My passion is programming and I am always looking for new challenges and learning opportunities. Currently, I am taking a full-stack development course. My main expertise and passion lies in the backend.
+
+I am always looking for new opportunities to collaborate and learn from others and I am eager to gain new experiences. If you are looking for a motivated, creative and energetic person for your projects, I am ready to work with you!
+
 - 💬 Ask me about **C#**
 
 - 📫 How to reach me **engmhroohi@gmail.com**
