@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend and web application developer</h3>
 
 
-<img align="right" alt="MHROOHIDEV" width="400" src="https://backdocket.com/features/">
+<img align="right" alt="MHROOHIDEV" width="400" src="https://backdocket.com/features/](https://backdocket.com/wp-content/uploads/2020/01/FEATURESPAGE.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhroohidev&label=Profile%20views&color=0e75b6&style=flat" alt="mhroohidev" /> </p>
 
