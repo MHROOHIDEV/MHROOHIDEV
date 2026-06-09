@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<img align="center" alt="MHROOHIDEV" width="1015" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+<img align="center" alt="MHROOHIDEV" width="1016" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 <img align="center" alt="MHROOHIDEV" width="1010" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 <h3 align="center">A passionate backend and web application developer</h3>
@@ -13,21 +13,25 @@
 
 I am always looking for new opportunities to collaborate and learn from others and I am eager to gain new experiences. If you are looking for a motivated, creative and energetic person for your projects, I am ready to work with you!
 
-- 💬 Ask me about **C#**
-
-- 📫 How to reach me **engmhroohi@gmail.com**
 
 🧱 Backend & Web
+
 .NET / ASP.NET Core – REST APIs, Minimal APIs, Clean Architecture
 Postman – API testing
 
 🧰 Tools & Platforms
-Git & GitHub – Version control & collaboration
+
+Git & GitHub – Version control & collaboration               
 VS Code & Visual Studio – IDEs and debugging tools
 
 ⚙️ Other Stuff I Like
 Clean code, SOLID principles, Dependency Injection / Inversion, composition, layered architecture
 Logging, debugging, optimizing, and breaking things until they finally work 😅
+
+
+- 💬 Ask me about **C#**
+
+- 📫 How to reach me **engmhroohi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
