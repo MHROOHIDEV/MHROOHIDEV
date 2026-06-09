@@ -17,6 +17,9 @@ I am always looking for new opportunities to collaborate and learn from others a
 
 - 📫 How to reach me **engmhroohi@gmail.com**
 
+Clean code, SOLID principles, Dependency Injection / Inversion, composition, layered architecture
+Logging, debugging, optimizing, and breaking things until they finally work 😅
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad hosein roohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad hosein roohi" height="30" width="40" /></a>
