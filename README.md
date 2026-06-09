@@ -17,6 +17,11 @@ I am always looking for new opportunities to collaborate and learn from others a
 
 - 📫 How to reach me **engmhroohi@gmail.com**
 
+🧱 Backend & Web
+.NET / ASP.NET Core – REST APIs, Minimal APIs, Clean Architecture
+VS Code & Visual Studio – IDEs and debugging tools
+Postman – API testing
+
 Clean code, SOLID principles, Dependency Injection / Inversion, composition, layered architecture
 Logging, debugging, optimizing, and breaking things until they finally work 😅
 
